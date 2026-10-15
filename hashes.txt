@@ -19,3 +19,4 @@
 2026-10-10  microcap-parite-tirage  fd72c37bcc690a69
 2026-10-12  listing-erratum-v1.1  4c9f964778e95b98
 2026-10-16  listing-revolut-japon-prereg  7bb10eb32f9431c9
+2026-10-16  listing-revolut-japon-addendum1  99e8f83208acfa75
