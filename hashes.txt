@@ -21,3 +21,4 @@
 2026-10-16  listing-revolut-japon-prereg  7bb10eb32f9431c9
 2026-10-16  listing-revolut-japon-addendum1  99e8f83208acfa75
 2026-10-16  misread-prereg  0cabdbdc55f30c83
+2026-10-16  listing-revolut-japon-addendum2  18353bc5435a5be4
