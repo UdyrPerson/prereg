@@ -26,3 +26,4 @@
 2026-10-16  listing-japon-events  d7d1e859614715d4
 2026-10-16  listing-japon-test-script  c2ccfee58f522fc2
 2026-10-19  microcap-forward  6cc44db88e07e66a
+2026-10-19  microcap-execution  7b940518cce3b53c
