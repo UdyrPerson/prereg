@@ -25,3 +25,4 @@
 2026-10-16  listing-revolut-japon-addendum3  5d4ef0f3e4d39b10
 2026-10-16  listing-japon-events  d7d1e859614715d4
 2026-10-16  listing-japon-test-script  c2ccfee58f522fc2
+2026-10-19  microcap-forward  6cc44db88e07e66a
