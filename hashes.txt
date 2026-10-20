@@ -29,3 +29,4 @@
 2026-10-19  microcap-execution  7b940518cce3b53c
 2026-10-19  microcap-parite-verdict  b713639709e5d5c7
 2026-10-20  microcap-v2-L3-plan  0ece964da3f9cd5c
+2026-10-20  microcap-v2-phase0-plan  e3b0c44298fc1c14
