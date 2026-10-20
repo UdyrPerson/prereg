@@ -35,3 +35,4 @@
 2026-10-20  microcap-v2-phase0-acquisition  f2bddf6653dcf8e7
 2026-10-20  microcap-v2-phase0-avenant1  786e03ae91cceb5a
 2026-10-20  microcap-v2-phase0-analyse  afa430998f54857f
+2026-10-20  microcap-v2-phase0-plan-avenant2  815fb4232e690979
