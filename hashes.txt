@@ -32,3 +32,4 @@
 2026-10-20  microcap-v2-phase0-plan  e3b0c44298fc1c14
 2026-10-20  microcap-v2-phase0-plan-ERRATUM-ligne-precedente-empreinte-du-vide  e3b0c44298fc1c14
 2026-10-20  microcap-v2-phase0-plan  bd3489d95ca6be1e
+2026-10-20  microcap-v2-phase0-acquisition  f2bddf6653dcf8e7
