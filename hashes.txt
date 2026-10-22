@@ -38,3 +38,4 @@
 2026-10-20  microcap-v2-phase0-plan-avenant2  815fb4232e690979
 2026-10-22  microcap-v2-phase0-code-variables  adc8a15149eb0bc1
 2026-10-22  microcap-v2-phase0-manifeste-premier-temps  446b339c7099181b
+2026-10-22  microcap-v2-phase0-plan-avenant3  7cfafc582552debe
