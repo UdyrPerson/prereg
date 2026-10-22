@@ -40,3 +40,5 @@
 2026-10-22  microcap-v2-phase0-manifeste-premier-temps  446b339c7099181b
 2026-10-22  microcap-v2-phase0-plan-avenant3  7cfafc582552debe
 2026-10-22  microcap-v2-phase0-avenant4  30ed0224e31d0dce
+2026-10-22  microcap-v2-phase0-avenant5  9d676532b7fe8edb
+2026-10-22  microcap-v2-phase0-analyse-regel  1b5e32358cd599af
