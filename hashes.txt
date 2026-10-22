@@ -44,3 +44,4 @@
 2026-10-22  microcap-v2-phase0-analyse-regel  1b5e32358cd599af
 2026-10-22  microcap-v2-phase0-avenant6  e2c167017b7f57da
 2026-10-22  microcap-v2-phase0-plan-sorties  adae3160906eefec
+2026-10-22  microcap-v2-phase0-plan-ronde2  f6d96ca2cbb19f61
