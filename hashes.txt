@@ -50,3 +50,5 @@
 2026-10-24  microcap-v2-phase0-resultats  36db345bdb7ff4fa
 2026-10-24  coree-h10-temoins-spec  b6b6c796b4fbf784
 2026-10-24  coree-h10-temoins-script  023ba267925487a1
+2026-10-24  coree-b2-hk1-avant-prereg  7d2848fd154a06a6
+2026-10-24  coree-b2-hk1-avant-releve  f00deb7425a1a19b
