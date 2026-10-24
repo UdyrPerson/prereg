@@ -52,3 +52,4 @@
 2026-10-24  coree-h10-temoins-script  023ba267925487a1
 2026-10-24  coree-b2-hk1-avant-prereg  7d2848fd154a06a6
 2026-10-24  coree-b2-hk1-avant-releve  f00deb7425a1a19b
+2026-10-24  coree-hk1-serie-r-addendum  1be782776701b884
