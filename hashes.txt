@@ -47,3 +47,4 @@
 2026-10-22  microcap-v2-phase0-plan-ronde2  f6d96ca2cbb19f61
 2026-10-24  microcap-v2-phase0-ronde2-etape0  90966b32a0adf0ec
 2026-10-24  microcap-v2-phase0-avenant7  a2757083e962c85d
+2026-10-24  microcap-v2-phase0-resultats  36db345bdb7ff4fa
