@@ -56,3 +56,4 @@
 2026-10-25  hk1-news-prereg  95ccd44a52b254cb
 2026-10-25  hk1-news-code  40fee1711ed8614c
 2026-10-25  hk1-news-bloc-gele  e7e7e354927bf438
+2026-10-25  microcap-v3-E-plan  43a93c3d60d5ca10
