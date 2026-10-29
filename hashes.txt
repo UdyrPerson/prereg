@@ -71,3 +71,4 @@
 2026-10-29  coree-b2-hk1-addendum-hiver  f78aad5cd25c5c25
 2026-10-29  hk1-p-calcul  da124c92377a7853
 2026-10-29  oracles-veille-releve  e36029163ff80429
+2026-10-29  oracles-c14-calcul  78d9a1be6ecd4b95
