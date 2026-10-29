@@ -69,3 +69,4 @@
 2026-10-29  oracles-c14-bloc-scelle  a5d47ae59927f81c
 2026-10-29  oracles-veille-releve  9cd9de18bccb8c56
 2026-10-29  coree-b2-hk1-addendum-hiver  f78aad5cd25c5c25
+2026-10-29  hk1-p-calcul  da124c92377a7853
