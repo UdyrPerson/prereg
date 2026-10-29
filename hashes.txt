@@ -66,3 +66,4 @@
 2026-10-29  oracles-c05-hkex-holidays  73cc5ece9252fa4c
 2026-10-29  oracles-c14-prereg  98533d9b69b6da6b
 2026-10-29  oracles-c14-releve  322927bbe5320be6
+2026-10-29  oracles-c14-bloc-scelle  a5d47ae59927f81c
