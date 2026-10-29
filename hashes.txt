@@ -72,3 +72,4 @@
 2026-10-29  hk1-p-calcul  da124c92377a7853
 2026-10-29  oracles-veille-releve  e36029163ff80429
 2026-10-29  oracles-c14-calcul  78d9a1be6ecd4b95
+2026-10-29  hk1-p-calcul-v2  285b4d0bdd76501f
