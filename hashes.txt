@@ -57,3 +57,7 @@
 2026-10-25  hk1-news-code  40fee1711ed8614c
 2026-10-25  hk1-news-bloc-gele  e7e7e354927bf438
 2026-10-25  microcap-v3-E-plan  43a93c3d60d5ca10
+2026-10-29  oracles-c12-prereg  8ab1664548c6f4ff
+2026-10-29  oracles-c12-releve  2076e6e7dcc2fddf
+2026-10-29  oracles-c09-prereg  35bab1f1d16fab32
+2026-10-29  oracles-c09-releve  e0b0ef956e01804e
