@@ -73,3 +73,8 @@
 2026-10-29  oracles-veille-releve  e36029163ff80429
 2026-10-29  oracles-c14-calcul  78d9a1be6ecd4b95
 2026-10-29  hk1-p-calcul-v2  285b4d0bdd76501f
+2026-10-30  oracles-c09-calcul  80dc4c39585b25ab
+2026-10-30  oracles-c12-calcul  fd67653225f61122
+2026-10-30  oracles-c05-calcul  df90bee45fbd20e7
+2026-10-30  oracles-c05-sse-holidays  d7c4d31f53c2f78a
+2026-10-30  oracles-c05-jpx-holidays  cd1af46b0c1b7901
