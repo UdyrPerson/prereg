@@ -78,3 +78,8 @@
 2026-10-30  oracles-c05-calcul  df90bee45fbd20e7
 2026-10-30  oracles-c05-sse-holidays  d7c4d31f53c2f78a
 2026-10-30  oracles-c05-jpx-holidays  cd1af46b0c1b7901
+2026-10-31  airdrops-eval  a19e7fc699955856
+2026-10-31  airdrops-eval-script  71cd0254a3b94a30
+2026-10-31  airdrops-model  6c2dd4e7296025eb
+2026-10-31  airdrops-ranking  327c9895792370a1
+2026-10-31  airdrops-eval-calendrier  e902c74be589ac20
