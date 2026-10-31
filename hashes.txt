@@ -83,3 +83,8 @@
 2026-10-31  airdrops-model  6c2dd4e7296025eb
 2026-10-31  airdrops-ranking  327c9895792370a1
 2026-10-31  airdrops-eval-calendrier  e902c74be589ac20
+2026-10-31  listing-d04-prereg  c691ff3e56d73a4c
+2026-10-31  listing-d04-script  319f308759b1c988
+2026-10-31  boros-f01-porte0  7795e0f54ed59938
+2026-10-31  boros-f01-prereg  b06ced14c9951022
+2026-10-31  boros-f01-script  f6f5cfd4dc76046e
