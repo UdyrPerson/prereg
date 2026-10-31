@@ -88,3 +88,5 @@
 2026-10-31  boros-f01-porte0  7795e0f54ed59938
 2026-10-31  boros-f01-prereg  b06ced14c9951022
 2026-10-31  boros-f01-script  f6f5cfd4dc76046e
+2026-10-31  weekend-prereg  a9138c7f925855f9
+2026-10-31  weekend-script  ed79d557bb77331d
