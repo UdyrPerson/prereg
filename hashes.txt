@@ -91,3 +91,5 @@
 2026-10-31  weekend-prereg  a9138c7f925855f9
 2026-10-31  weekend-script  ed79d557bb77331d
 2026-10-31  weekend-script-c1  8932441dd07e8b4c
+2026-11-01  weekend-etf-prereg  f00db5e5f9c1b6aa
+2026-11-01  weekend-etf-script  13209c1e4ce7fd3d
