@@ -93,3 +93,6 @@
 2026-10-31  weekend-script-c1  8932441dd07e8b4c
 2026-11-01  weekend-etf-prereg  f00db5e5f9c1b6aa
 2026-11-01  weekend-etf-script  13209c1e4ce7fd3d
+2026-11-01  listing-a1min-prereg  a0139922fa01658b
+2026-11-01  listing-a1min-script  eb28dfdbe2cbcb58
+2026-11-01  listing-a1min-annexes  09a8aaf0f90b8ee9
