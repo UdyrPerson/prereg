@@ -96,3 +96,4 @@
 2026-11-01  listing-a1min-prereg  a0139922fa01658b
 2026-11-01  listing-a1min-script  eb28dfdbe2cbcb58
 2026-11-01  listing-a1min-annexes  09a8aaf0f90b8ee9
+2026-11-02  oracles-c14-L6  1609e8fcc0722c2e
