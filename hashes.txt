@@ -97,3 +97,5 @@
 2026-11-01  listing-a1min-script  eb28dfdbe2cbcb58
 2026-11-01  listing-a1min-annexes  09a8aaf0f90b8ee9
 2026-11-02  oracles-c14-L6  1609e8fcc0722c2e
+2026-11-03  hk1-news-lot-01  f21877e0b504e5b6
+2026-11-03  hk1-news-lot-01-jambes  83c6495a57b30c30
