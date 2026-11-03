@@ -99,3 +99,5 @@
 2026-11-02  oracles-c14-L6  1609e8fcc0722c2e
 2026-11-03  hk1-news-lot-01  f21877e0b504e5b6
 2026-11-03  hk1-news-lot-01-jambes  83c6495a57b30c30
+2026-11-03  listing-d11-prereg  d891a2973e985130
+2026-11-03  listing-d11-script  9d1eca00e5cfca19
