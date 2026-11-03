@@ -101,3 +101,6 @@
 2026-11-03  hk1-news-lot-01-jambes  83c6495a57b30c30
 2026-11-03  listing-d11-prereg  d891a2973e985130
 2026-11-03  listing-d11-script  9d1eca00e5cfca19
+2026-11-03  prenews-registre  ac1177d809fbb450
+2026-11-03  prenews-g0-prereg  cd77ff0926915328
+2026-11-03  prenews-g0-script  dc5bb4608f01ac56
