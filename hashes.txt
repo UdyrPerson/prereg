@@ -106,3 +106,5 @@
 2026-11-03  prenews-g0-script  dc5bb4608f01ac56
 2026-11-05  rl-twap-g0-prereg  3313b1ea155bdab9
 2026-11-05  rl-twap-g0-script  79d73ca148fc0bce
+2026-11-05  rl-twap-g0b-prereg  fcd2d65aab31e8e7
+2026-11-05  rl-twap-g0b-script  d617eec96eb3ed9e
