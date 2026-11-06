@@ -110,3 +110,5 @@
 2026-11-05  rl-twap-g0b-script  d617eec96eb3ed9e
 2026-11-05  rl-twap-g0c-prereg  c9b6ae72a93188eb
 2026-11-05  rl-twap-g0c-script  41e2990e3f08ea9f
+
+2026-11-06  rl-builders-declaration  ee39112619472a43
