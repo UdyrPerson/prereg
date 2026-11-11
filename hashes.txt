@@ -112,3 +112,4 @@
 2026-11-05  rl-twap-g0c-script  41e2990e3f08ea9f
 
 2026-11-06  rl-builders-declaration  ee39112619472a43
+2026-11-11  oracles-c29-registre  12544a5ac7111858
