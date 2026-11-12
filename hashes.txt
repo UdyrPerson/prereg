@@ -113,3 +113,7 @@
 
 2026-11-06  rl-builders-declaration  ee39112619472a43
 2026-11-11  oracles-c29-registre  12544a5ac7111858
+2026-11-12  onchain-onc1-prereg  03fde72c2c8a1950
+2026-11-12  onchain-onc1-script  061726c907e54536
+2026-11-12  onchain-onc1-events  a9a3ae8cd07790db
+2026-11-12  onchain-onc1-universe  fc8e4cb4a5a754f8
