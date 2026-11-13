@@ -117,3 +117,10 @@
 2026-11-12  onchain-onc1-script  061726c907e54536
 2026-11-12  onchain-onc1-events  a9a3ae8cd07790db
 2026-11-12  onchain-onc1-universe  fc8e4cb4a5a754f8
+2026-11-13  vaults-t1-prereg  9d82fc4b75612b01
+2026-11-13  vaults-t0-script  1e1429d1566caa75
+2026-11-13  vaults-t0-univers  84692b331b19795e
+2026-11-13  vaults-t0-moteur  2c0ae0adeb2e3c54
+2026-11-13  vaults-t0-plafond  bf561cb9a104eb74
+2026-11-13  vaults-t0-lecture  d189079862a6ee79
+2026-11-13  vaults-t0-ic  fbe6a33123e9e8d0
